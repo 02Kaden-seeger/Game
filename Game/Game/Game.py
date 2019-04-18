@@ -22,6 +22,20 @@ try:
             print("")
             print('Ok now into the game')
             print(pause())
+            print('You are just walking out of highschool and you get a text  ')
+            print('it is your best friend, he tells you how he had to leave early for a dentist apointment ')
+            print("How will you get home?! He was you'r ride!")
+            try:
+                choice = int(input('Your Answer: '))
+                if choice < 1.1:
+                    print('ride(1)')
+
+                else
+
+            except ValueError:
+                print("")
+        print('Thats not an option')
+        exit()
             print('')
         else:
             exit()
