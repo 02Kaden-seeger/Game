@@ -37,6 +37,11 @@ try:
                     print('but he had just texted you that he was at a dentist apointment???')
                     print(pause())
                     print('You decide to track him via SnapMap and follow him')
+                    print(pause())
+                    print("when you follow him you see he is stopped at a location you don't recognize")
+                    print('when you get to the location you see it is an abandoned warehouse  ')
+                    print("Do you go in the warehouse or do you text you'r friend")
+                    print("Go in the warehouse(1)            text you'r friend(2)")
 
             except ValueError:
                 print("")
